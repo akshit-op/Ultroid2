@@ -43,7 +43,7 @@ N = 0
 # Feel Free to Add Any other...
 
 NOSPAM_CHAT = [
-    -1001327032795,  # UltroidSupport
+    -1001327037795,  # UltroidSupport
     -1001387666944,  # PyrogramChat
     -1001109500936,  # TelethonChat
     -1001050982793,  # Python
